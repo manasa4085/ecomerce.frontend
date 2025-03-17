@@ -6,12 +6,12 @@ const Banner = () => {
       className="text-center text-white py-5"
       style={{
         background:
-          "url('https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.1') no-repeat center/cover",
+          "https://img.freepik.com/free-photo/arrangement-black-friday-shopping-carts-with-copy-space_23-2148667047.jpg?t=st=1742203215~exp=1742206815~hmac=2fc2274724c92b899ee44d7b01029612eeb33d694a3a75cfef1e9b0f3206d77c&w=996",
       }}
     >
       <div className="container">
-        <h1>Discover the Best Deals</h1>
-        <p>Shop the latest trends at unbeatable prices.</p>
+        <h1>Find it. Love it. Buy it.</h1>
+        <p>Fashion, Deals, and More - All in one Place!</p>
         <a href="#" className="btn btn-light">
           Shop Now
         </a>
